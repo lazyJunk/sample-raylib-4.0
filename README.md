@@ -1,6 +1,6 @@
 # sample-raylib-4.0 for windows
 
-Simple repo with a raylib static lib with version 4.0 include the raylib.h header.
+Simple repo with a raylib static lib with version 4.0 including the raylib.h header.
 
 ### Requirements:
 
