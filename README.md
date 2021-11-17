@@ -2,6 +2,15 @@
 
 Simple repo with a raylib static lib with version 4.0 including the raylib.h header.
 
+### Disclaimer:
+
+This is only a sample project to help the setup process.
+
+The file **raylib.h** and the static compiled lib **libraylib.a** follows the original license from raylib. Be aware that when changing this files you need to follow the license premissions and requirements.
+
+* raylib - https://github.com/raysan5/raylib
+* raylib license - https://github.com/raysan5/raylib/blob/master/LICENSE
+
 ### Requirements:
 
 * mingw installed
