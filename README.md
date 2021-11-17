@@ -11,3 +11,12 @@ Simple repo with a raylib static lib with version 4.0 including the raylib.h hea
 #### Warning: Make sure to change the target to **win32** when using the installer.
 
 This will install the mingw32-make and gcc required to build the project.
+
+### Build
+
+Open a terminal and type the following command on the root of the projec, where the make file is present.
+
+```cmd
+mingw32-make
+```
+
